@@ -240,3 +240,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/jasmintg/textgrids/__pycache__
+/jasmintg/__pycache__
